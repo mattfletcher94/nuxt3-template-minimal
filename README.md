@@ -2,6 +2,8 @@
 A minimal Nuxt 3 starter template. This template includes configuration
 for Typescript and eslint. It also includes pinia for store management,
 vueuse for helpful tools and Tailwind for styling. Feel free to fork.
+If you're using Visual Code, please install the volar and eslint extensions
+for the best experience.
 
 ## Setup
 
